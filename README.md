@@ -1,5 +1,7 @@
 # 🧬 Predicting Diabetes Risk from Health Data
 
+[![View on GitHub](https://img.shields.io/badge/View%20Repo-On%20GitHub-blue?logo=github)](https://github.com/avanibhat/NEW_REPO_NAME_HERE)
+
 > A machine learning project analyzing clinical features to predict diabetes, with a special focus on women’s health indicators such as pregnancies and BMI.
 
 ---
@@ -16,6 +18,8 @@
   - [✅ Results](#-results)
   - [📁 Project Structure](#-project-structure)
   - [⚙️ How to Run](#️-how-to-run)
+  - [🧾 License](#-license)
+  - [🙋‍♀️ Author](#️-author)
 
 ---
 
@@ -69,6 +73,7 @@ Special attention given to women-focused metrics:
 
 ## 📁 Project Structure
 
+```
 Pima_Indian_Diabetes_Project/
 │
 ├── diabetes_prediction.ipynb       # Jupyter notebook with all code and results
@@ -77,11 +82,35 @@ Pima_Indian_Diabetes_Project/
 ├── README.md                       # Project overview and instructions
 ├── requirements.txt                # Python libraries needed to run the notebook
 ├── .gitignore                      # Files and folders to exclude from Git
+```
 
+---
 
 ## ⚙️ How to Run
 
 1. Clone the repo
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Launch the notebook:
+
+```bash
+jupyter notebook diabetes_prediction.ipynb
+```
+
+---
+
+## 🧾 License
+
+This project is licensed under the MIT License. Feel free to use, share, and modify it.
+
+---
+
+## 🙋‍♀️ Author
+
+**Avani Bhat**  
+Biomedical Data Science • Machine Learning in Healthcare  
+[LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com)
